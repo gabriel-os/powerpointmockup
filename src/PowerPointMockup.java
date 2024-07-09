@@ -110,7 +110,6 @@ public class PowerPointMockup extends JFrame {
             slide.setBackground(Color.LIGHT_GRAY); // Cor de fundo
             slideNavigator.add(slide);
         }
-    	
         
     }
     
